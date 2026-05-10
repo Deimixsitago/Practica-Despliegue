@@ -68,4 +68,4 @@ print(Y_pred)
 data["Rain"]=Y_pred
 data.head()
 
-data_preparada
+data
